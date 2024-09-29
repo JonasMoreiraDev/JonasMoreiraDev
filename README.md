@@ -5,7 +5,6 @@
 <li>👨🏾‍💻Sou Desenvolvedor Front-End</li>
 <li>🇧🇷 Sou Brasileiro e tenho 26 anos</li>
 <li>👨🏾‍🎓Graduando em Análise e Desenvolvimento de Sistemas pela Estácio (3/5)</li>
-<li>❤️ Amante da Tecnológia</li>
 </ul>
 
 ![Jonas Moreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoctisRj&show_icons=true&theme=merko) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noctisrj&layout=compact)

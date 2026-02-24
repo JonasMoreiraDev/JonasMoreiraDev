@@ -4,11 +4,7 @@
 <li>🙋🏾‍♂️Olá, me chamo Jonas;</li>
 <li>👨🏾‍💻Sou Desenvolvedor Front-End</li>
 <li>🇧🇷 Sou Brasileiro e tenho 26 anos</li>
-<li>👨🏾‍🎓Graduando em Análise e Desenvolvimento de Sistemas pela Estácio (3/5)</li>
 </ul>
-
-![Jonas Moreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasMoreiraDev&show_icons=true&theme=merko) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasMoreiraDev&layout=compact)
-
 
 ### Tecnologias e Linguagens
 

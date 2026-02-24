@@ -3,7 +3,7 @@
 <ul>
 <li>🙋🏾‍♂️Olá, me chamo Jonas;</li>
 <li>👨🏾‍💻Sou Desenvolvedor Front-End</li>
-<li>🇧🇷 Sou Brasileiro e tenho 26 anos</li>
+<li>🇧🇷 Sou Brasileiro e tenho 28 anos</li>
 </ul>
 
 ### Tecnologias e Linguagens
